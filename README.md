@@ -11,6 +11,7 @@ this repository contains all data for each crypto currencyn one file per crypto 
 - crypto_data
 this last repository contains the crypto currencies selected according to the market cap.
 
+There are 3 main parts to distinguish into the notebook
 1) Webscraping 
 The project begins collecting data with the python package : beautifullSoup
 
